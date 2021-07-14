@@ -20,3 +20,4 @@ sandbox/build/distributions/sandbox.tar
 sandbox/build/distributions/sandbox.zip
 sandbox/build/scripts/sandbox.bat
 sandbox/build/scripts/sandbox
+.idea/workspace.xml
